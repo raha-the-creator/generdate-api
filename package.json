@@ -1,0 +1,23 @@
+{
+  "name": "generdate-api",
+  "version": "1.0.0",
+  "description": "API for GenerDate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raha-the-creator/generdate-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raha-the-creator/generdate-api/issues"
+  },
+  "homepage": "https://github.com/raha-the-creator/generdate-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
